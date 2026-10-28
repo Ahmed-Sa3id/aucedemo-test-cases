@@ -13,9 +13,9 @@ Manual test cases for https://www.saucedemo.com, written as part of my Software 
 Test ID | Title | Preconditions | Steps | Expected Result | Actual Result | Status | Priority
 
 ## Summary
-- Total test cases: [X]
-- Passed: [X] | Failed: [X]
-- Bugs found: [X]
+- Total test cases: [39]
+- Passed: [38] | Failed: [1]
+
 
 ## Files
 - [Test_cases.xlsx](Test_cases.xlsx)
