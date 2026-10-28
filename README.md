@@ -19,7 +19,6 @@ Test ID | Title | Preconditions | Steps | Expected Result | Actual Result | Stat
 
 ## Files
 - [Test_cases.xlsx](Test_cases.xlsx)
-- [Test_cases.pdf](Test_cases.pdf)
 
 ## Author
 Ahmed Said - Software Testing | Cybersecurity
